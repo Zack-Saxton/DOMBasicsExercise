@@ -1,0 +1,21 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+  }
+  img {
+    width: 50%;
+  }
+  .background {
+    background-color: #19a5eb;
+  }
+  .text-color {
+    color: #FF0000;
+  }
+  .center {
+    text-align: center;
+  }
+
+  .a-tag{
+      text-decoration: none;
+      color: red;
+  }
